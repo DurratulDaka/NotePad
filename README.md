@@ -4,7 +4,7 @@
 
 <h3>👋 Contributor:</h3>
 
-- 🌱 Zidan Alfa Permana: **XI/PPLG-3/29**
+- 🌱 Durratul Daka Pamungkas: **XI/PPLG-3/8**
 
 <h3>✅ Features</h3>
 
